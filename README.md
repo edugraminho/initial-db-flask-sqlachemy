@@ -1,0 +1,1 @@
+#Estrutura Inicial de uma database usando o postgresql, sqlalchemy
